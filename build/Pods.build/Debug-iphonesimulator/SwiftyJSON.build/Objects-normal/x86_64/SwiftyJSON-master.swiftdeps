@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "e6776060712463a0eb1719b58ce27302"
+build_time: [1612760595, 374790000]
+inputs:
+  "/Users/krupali/Documents/20210202-KrupaliPatel-NYCSchools/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1612759044, 151912340]

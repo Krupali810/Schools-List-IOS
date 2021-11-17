@@ -1,0 +1,6 @@
+framework module Pods_20210202_KrupaliPatel_NYCSchools {
+  umbrella header "Pods-20210202-KrupaliPatel-NYCSchools-umbrella.h"
+
+  export *
+  module * { export * }
+}

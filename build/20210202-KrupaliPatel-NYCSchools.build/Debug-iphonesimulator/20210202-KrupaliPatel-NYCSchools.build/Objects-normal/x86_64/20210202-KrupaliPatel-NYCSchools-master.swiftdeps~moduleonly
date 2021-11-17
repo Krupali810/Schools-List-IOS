@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "f5e1214b5d0bfef310e56ae52cab3c9c"
+build_time: [1612768095, 549457000]
+inputs:
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/Controller/TableView/SchoolListTableViewController.swift": [1612760066, 895475030]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/Controller/ViewController.swift": [1612760476, 598289847]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/Model/NYCSchoolStruct.swift": [1612686874, 347514510]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/ViewModel/SchoolsManager.swift": [1612762407, 889759779]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/Controller/TableCell/SchoolListTableViewCell.swift": [1612588217, 532122374]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/AppDelegate.swift": [1612274207, 575973868]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/SceneDelegate.swift": [1612274207, 604164362]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/Controller/TableView/SchoolListHeader.swift": [1612754456, 193046331]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/Controller/SchoolDetailViewController.swift": [1612762050, 306280851]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/Model/NYCSchoolSATStruct.swift": [1612760171, 921761394]
+  "/Users/krupali/Desktop/project_jpmc/20210202-KrupaliPatel-NYCSchools/Common/Constants.swift": [1612685625, 179989219]

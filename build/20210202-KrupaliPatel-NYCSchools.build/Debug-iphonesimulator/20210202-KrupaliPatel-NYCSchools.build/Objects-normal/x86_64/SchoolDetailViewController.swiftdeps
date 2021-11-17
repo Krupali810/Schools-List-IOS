@@ -1,0 +1,436 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SchoolDetailViewController"
+provides-nominal:
+- "32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC"
+provides-member:
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", ""]
+provides-dynamic-lookup:
+- "mathScore"
+- "mathScoreLabel"
+- "readScore"
+- "readScoreLabel"
+- "schoolName"
+- "schoolNameLabel"
+- "schoolSATDetails"
+- "viewDidLoad"
+- "writeScore"
+- "writeScoreLabel"
+depends-top-level:
+- "AssignmentPrecedence"
+- "NYCSchoolSATStruct"
+- "SchoolDetailViewController"
+- "String"
+- "UILabel"
+- "UIViewController"
+- !private "mathScoreLabel"
+- !private "readScoreLabel"
+- !private "schoolNameLabel"
+- !private "writeScoreLabel"
+depends-member:
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "mathScore"]
+- !private ["s7CVarArgP", "mathScoreLabel"]
+- !private ["s7CVarArgP", "readScore"]
+- !private ["s7CVarArgP", "readScoreLabel"]
+- !private ["s7CVarArgP", "schoolName"]
+- !private ["s7CVarArgP", "schoolNameLabel"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "writeScore"]
+- !private ["s7CVarArgP", "writeScoreLabel"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "mathScore"]
+- !private ["s28CustomDebugStringConvertibleP", "mathScoreLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "readScore"]
+- !private ["s28CustomDebugStringConvertibleP", "readScoreLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "schoolName"]
+- !private ["s28CustomDebugStringConvertibleP", "schoolNameLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "writeScore"]
+- !private ["s28CustomDebugStringConvertibleP", "writeScoreLabel"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "mathScore"]
+- !private ["s23CustomStringConvertibleP", "mathScoreLabel"]
+- !private ["s23CustomStringConvertibleP", "readScore"]
+- !private ["s23CustomStringConvertibleP", "readScoreLabel"]
+- !private ["s23CustomStringConvertibleP", "schoolName"]
+- !private ["s23CustomStringConvertibleP", "schoolNameLabel"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "writeScore"]
+- !private ["s23CustomStringConvertibleP", "writeScoreLabel"]
+- !private ["Se", "text"]
+- !private ["SE", "text"]
+- ["SQ", ""]
+- !private ["SQ", "mathScore"]
+- !private ["SQ", "mathScoreLabel"]
+- !private ["SQ", "readScore"]
+- !private ["SQ", "readScoreLabel"]
+- !private ["SQ", "schoolName"]
+- !private ["SQ", "schoolNameLabel"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "writeScore"]
+- !private ["SQ", "writeScoreLabel"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["SH", ""]
+- !private ["SH", "mathScore"]
+- !private ["SH", "mathScoreLabel"]
+- !private ["SH", "readScore"]
+- !private ["SH", "readScoreLabel"]
+- !private ["SH", "schoolName"]
+- !private ["SH", "schoolNameLabel"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "writeScore"]
+- !private ["SH", "writeScoreLabel"]
+- ["So8NSCodingP", "NYCSchoolSATStruct"]
+- ["So8NSCodingP", "String"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "mathScore"]
+- ["So8NSCodingP", "mathScoreLabel"]
+- ["So8NSCodingP", "readScore"]
+- ["So8NSCodingP", "readScoreLabel"]
+- ["So8NSCodingP", "schoolName"]
+- ["So8NSCodingP", "schoolNameLabel"]
+- ["So8NSCodingP", "schoolSATDetails"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", "writeScore"]
+- ["So8NSCodingP", "writeScoreLabel"]
+- ["So26NSExtensionRequestHandlingP", "NYCSchoolSATStruct"]
+- ["So26NSExtensionRequestHandlingP", "String"]
+- ["So26NSExtensionRequestHandlingP", "UILabel"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "mathScore"]
+- ["So26NSExtensionRequestHandlingP", "mathScoreLabel"]
+- ["So26NSExtensionRequestHandlingP", "readScore"]
+- ["So26NSExtensionRequestHandlingP", "readScoreLabel"]
+- ["So26NSExtensionRequestHandlingP", "schoolName"]
+- ["So26NSExtensionRequestHandlingP", "schoolNameLabel"]
+- ["So26NSExtensionRequestHandlingP", "schoolSATDetails"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "writeScore"]
+- ["So26NSExtensionRequestHandlingP", "writeScoreLabel"]
+- ["So8NSObjectC", "NYCSchoolSATStruct"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "mathScore"]
+- ["So8NSObjectC", "mathScoreLabel"]
+- ["So8NSObjectC", "readScore"]
+- ["So8NSObjectC", "readScoreLabel"]
+- ["So8NSObjectC", "schoolName"]
+- ["So8NSObjectC", "schoolNameLabel"]
+- ["So8NSObjectC", "schoolSATDetails"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "writeScore"]
+- ["So8NSObjectC", "writeScoreLabel"]
+- ["So8NSObjectP", "NYCSchoolSATStruct"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "mathScore"]
+- ["So8NSObjectP", "mathScoreLabel"]
+- ["So8NSObjectP", "readScore"]
+- ["So8NSObjectP", "readScoreLabel"]
+- ["So8NSObjectP", "schoolName"]
+- ["So8NSObjectP", "schoolNameLabel"]
+- ["So8NSObjectP", "schoolSATDetails"]
+- !private ["So8NSObjectP", "text"]
+- ["So8NSObjectP", "viewDidLoad"]
+- ["So8NSObjectP", "writeScore"]
+- ["So8NSObjectP", "writeScoreLabel"]
+- !private ["Sq", "text"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "NYCSchoolSATStruct"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "String"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "UILabel"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", ""]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "deinit"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "init"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "mathScore"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "mathScoreLabel"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "readScore"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "readScoreLabel"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "schoolName"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "schoolNameLabel"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "schoolSATDetails"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "viewDidLoad"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "writeScore"]
+- ["32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC", "writeScoreLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", "NYCSchoolSATStruct"]
+- ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "mathScore"]
+- ["So21UIAppearanceContainerP", "mathScoreLabel"]
+- ["So21UIAppearanceContainerP", "readScore"]
+- ["So21UIAppearanceContainerP", "readScoreLabel"]
+- ["So21UIAppearanceContainerP", "schoolName"]
+- ["So21UIAppearanceContainerP", "schoolNameLabel"]
+- ["So21UIAppearanceContainerP", "schoolSATDetails"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", "writeScore"]
+- ["So21UIAppearanceContainerP", "writeScoreLabel"]
+- ["So18UIContentContainerP", "NYCSchoolSATStruct"]
+- ["So18UIContentContainerP", "String"]
+- ["So18UIContentContainerP", "UILabel"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "mathScore"]
+- ["So18UIContentContainerP", "mathScoreLabel"]
+- ["So18UIContentContainerP", "readScore"]
+- ["So18UIContentContainerP", "readScoreLabel"]
+- ["So18UIContentContainerP", "schoolName"]
+- ["So18UIContentContainerP", "schoolNameLabel"]
+- ["So18UIContentContainerP", "schoolSATDetails"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", "writeScore"]
+- ["So18UIContentContainerP", "writeScoreLabel"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", "NYCSchoolSATStruct"]
+- ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "mathScore"]
+- ["So18UIFocusEnvironmentP", "mathScoreLabel"]
+- ["So18UIFocusEnvironmentP", "readScore"]
+- ["So18UIFocusEnvironmentP", "readScoreLabel"]
+- ["So18UIFocusEnvironmentP", "schoolName"]
+- ["So18UIFocusEnvironmentP", "schoolNameLabel"]
+- ["So18UIFocusEnvironmentP", "schoolSATDetails"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", "writeScore"]
+- ["So18UIFocusEnvironmentP", "writeScoreLabel"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "NYCSchoolSATStruct"]
+- ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "mathScore"]
+- ["So30UIPasteConfigurationSupportingP", "mathScoreLabel"]
+- ["So30UIPasteConfigurationSupportingP", "readScore"]
+- ["So30UIPasteConfigurationSupportingP", "readScoreLabel"]
+- ["So30UIPasteConfigurationSupportingP", "schoolName"]
+- ["So30UIPasteConfigurationSupportingP", "schoolNameLabel"]
+- ["So30UIPasteConfigurationSupportingP", "schoolSATDetails"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", "writeScore"]
+- ["So30UIPasteConfigurationSupportingP", "writeScoreLabel"]
+- ["So11UIResponderC", "NYCSchoolSATStruct"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "mathScore"]
+- ["So11UIResponderC", "mathScoreLabel"]
+- ["So11UIResponderC", "readScore"]
+- ["So11UIResponderC", "readScoreLabel"]
+- ["So11UIResponderC", "schoolName"]
+- ["So11UIResponderC", "schoolNameLabel"]
+- ["So11UIResponderC", "schoolSATDetails"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "writeScore"]
+- ["So11UIResponderC", "writeScoreLabel"]
+- ["So30UIResponderStandardEditActionsP", "NYCSchoolSATStruct"]
+- ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "mathScore"]
+- ["So30UIResponderStandardEditActionsP", "mathScoreLabel"]
+- ["So30UIResponderStandardEditActionsP", "readScore"]
+- ["So30UIResponderStandardEditActionsP", "readScoreLabel"]
+- ["So30UIResponderStandardEditActionsP", "schoolName"]
+- ["So30UIResponderStandardEditActionsP", "schoolNameLabel"]
+- ["So30UIResponderStandardEditActionsP", "schoolSATDetails"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "writeScore"]
+- ["So30UIResponderStandardEditActionsP", "writeScoreLabel"]
+- ["So16UIStateRestoringP", "NYCSchoolSATStruct"]
+- ["So16UIStateRestoringP", "String"]
+- ["So16UIStateRestoringP", "UILabel"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "mathScore"]
+- ["So16UIStateRestoringP", "mathScoreLabel"]
+- ["So16UIStateRestoringP", "readScore"]
+- ["So16UIStateRestoringP", "readScoreLabel"]
+- ["So16UIStateRestoringP", "schoolName"]
+- ["So16UIStateRestoringP", "schoolNameLabel"]
+- ["So16UIStateRestoringP", "schoolSATDetails"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", "writeScore"]
+- ["So16UIStateRestoringP", "writeScoreLabel"]
+- ["So18UITraitEnvironmentP", "NYCSchoolSATStruct"]
+- ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "mathScore"]
+- ["So18UITraitEnvironmentP", "mathScoreLabel"]
+- ["So18UITraitEnvironmentP", "readScore"]
+- ["So18UITraitEnvironmentP", "readScoreLabel"]
+- ["So18UITraitEnvironmentP", "schoolName"]
+- ["So18UITraitEnvironmentP", "schoolNameLabel"]
+- ["So18UITraitEnvironmentP", "schoolSATDetails"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "writeScore"]
+- ["So18UITraitEnvironmentP", "writeScoreLabel"]
+- ["So23UIUserActivityRestoringP", "NYCSchoolSATStruct"]
+- ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "mathScore"]
+- ["So23UIUserActivityRestoringP", "mathScoreLabel"]
+- ["So23UIUserActivityRestoringP", "readScore"]
+- ["So23UIUserActivityRestoringP", "readScoreLabel"]
+- ["So23UIUserActivityRestoringP", "schoolName"]
+- ["So23UIUserActivityRestoringP", "schoolNameLabel"]
+- ["So23UIUserActivityRestoringP", "schoolSATDetails"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "writeScore"]
+- ["So23UIUserActivityRestoringP", "writeScoreLabel"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "NYCSchoolSATStruct"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "mathScore"]
+- ["So16UIViewControllerC", "mathScoreLabel"]
+- ["So16UIViewControllerC", "readScore"]
+- ["So16UIViewControllerC", "readScoreLabel"]
+- ["So16UIViewControllerC", "schoolName"]
+- ["So16UIViewControllerC", "schoolNameLabel"]
+- ["So16UIViewControllerC", "schoolSATDetails"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "writeScore"]
+- ["So16UIViewControllerC", "writeScoreLabel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mathScore"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mathScoreLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "readScore"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "readScoreLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "schoolName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "schoolNameLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "writeScore"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "writeScoreLabel"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mathScore"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mathScoreLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "readScore"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "readScoreLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "schoolName"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "schoolNameLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "writeScore"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "writeScoreLabel"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "32_0210202_KrupaliPatel_NYCSchools26SchoolDetailViewControllerC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CloudKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3ca51e85ef8be9b8b003617ac9abe717"
